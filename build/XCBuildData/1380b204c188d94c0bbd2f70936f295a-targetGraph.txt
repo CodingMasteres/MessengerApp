@@ -1,0 +1,11 @@
+Target dependency graph (5 targets)
+InputBarAccessoryView in Pods, no dependencies
+JGProgressHUD in Pods, no dependencies
+MessageKit in Pods, depends on:
+InputBarAccessoryView in Pods (explicit)
+SDWebImage in Pods, no dependencies
+Pods-MessengerApp in Pods, depends on:
+InputBarAccessoryView in Pods (explicit)
+JGProgressHUD in Pods (explicit)
+MessageKit in Pods (explicit)
+SDWebImage in Pods (explicit)

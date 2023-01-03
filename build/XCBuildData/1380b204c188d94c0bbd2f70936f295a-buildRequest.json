@@ -1,0 +1,57 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9833f851255032d99cab476c829448f925"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98aae1e4fe717e46ad81584fba5cf6a219"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e982c037258a013719c57dd0add91c596ee"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98abd628df0997080675ac2a29bdb6ccef"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98c46180aea4e87057640961e6db37df0d"
+    }
+  ],
+  "containerPath" : "/Users/mohammedalsiraji/Downloads/MessengerApp/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/mohammedalsiraji/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/mohammedalsiraji/Library/Developer/Xcode/DerivedData/Pods-dsdeuxrpsffilqachbcohvettfgf/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/mohammedalsiraji/Library/Developer/Xcode/DerivedData/Pods-dsdeuxrpsffilqachbcohvettfgf/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
